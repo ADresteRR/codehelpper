@@ -1,0 +1,100 @@
+body
+{
+         background-color: cornflowerblue;
+}
+.list
+{
+    
+    margin-top:0;
+    list-style-type: none;
+    width:27%;
+    position:fixed;
+    top:0;
+    border:2px solid black;
+    float:left;
+    height:100%;
+    padding: 2px;
+    margin-right:5px;
+    background-color: rgb(79, 155, 168);
+
+}
+li a
+{
+    color:white;
+    text-decoration: none;
+    text-align:center;
+    display:block;
+    /* background-color: black; */
+    
+    padding:14px 16px;
+    font-size:20px;
+}
+li a:hover
+{
+    background-color: lightgoldenrodyellow;
+    color:black;
+}
+#Heading
+{
+    margin-top:0;
+    margin-left:30%;
+    font-size:60px;
+    background-color: lightgreen;
+    width:75%;
+}
+.MAIN
+{
+    border:3px solid black;
+    width:70%;
+    margin-left:30%;
+    background-color: lightgrey;
+    height: 100%;
+    padding:3px;
+
+
+    
+}
+/* .abt
+{
+    border:2px  red;
+    border-style: double;
+} */
+ #ABOUT
+{
+    font-size:25px;
+
+}
+.about
+{
+    font-size:1.3em;
+    font-family: cursive;
+}
+table
+{
+       font-size:1.5em;
+       border-collapse: collapse;
+}
+tr th
+{
+    border:2px solid black;
+    padding:14px;
+    text-align:center;
+    
+}
+td
+{
+    border:2px solid black;
+        text-align:center;
+        width:25%;
+        text-decoration: none;
+}
+#Contact
+{
+    font-size:29px;
+   
+}
+address
+{
+    font-size:18px;
+}
+
